@@ -1,0 +1,4 @@
+defaultNamespace: default
+helm:
+  chart: git::https://github.com/rancher/fleet-examples//single-cluster/helm?ref=master
+  releaseName: fleet-4877-git-helm
